@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+9999c61dda7df2ed9fe97bfe4c03d5c289ea8910 refs/remotes/origin/dependabot/pip/django-2.2.24
+2452ba8571401077a2dc11dea72d4517a01cac9b refs/remotes/origin/dependabot/pip/numpy-1.22.0
+4a5ab32e4578dfb868a9725f2bd710c4a63236c8 refs/remotes/origin/master
